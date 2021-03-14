@@ -1,0 +1,5 @@
+npx create-react-app to get started.
+install bootstrap from cdn  
+npm i react-router-dom  // for navigation and styling
+npm i react-redux redux-devtools-extension
+
