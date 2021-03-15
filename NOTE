@@ -3,3 +3,8 @@ install bootstrap from cdn
 npm i react-router-dom  // for navigation and styling
 npm i react-redux redux-devtools-extension
 
+Next create a server folder and npm init -y inside the folder.
+Next we will install a lot of dependencies
+
+npm i express dotenv mongoose cors morgan nodemon 
+
